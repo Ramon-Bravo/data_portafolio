@@ -1,0 +1,40 @@
+# ⚙️ Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# 🧪 Entornos virtuales
+env/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# 📚 Jupyter Notebooks - checkpoints
+.ipynb_checkpoints/
+
+# 📦 Archivos pesados o de modelo
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.onnx
+
+# 📁 Datos sensibles o muy pesados (personal o entrenamiento)
+*.csv
+*.xlsx
+*.xls
+*.json
+*.zip
+
+# 📑 Archivos de Word o PDF (documentación personal)
+*.doc
+*.docx
+*.pdf
+
+# 🔍 Archivos de configuración local
+.vscode/
+*.log
+
+# 📄 Otros
+*.bak
+*.tmp
