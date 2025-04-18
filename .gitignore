@@ -1,6 +1,7 @@
 # ⚙️ Archivos temporales del sistema
 .DS_Store
 Thumbs.db
+*.python
 
 # 🧪 Entornos virtuales
 env/
@@ -18,6 +19,7 @@ __pycache__/
 *.h5
 *.pt
 *.onnx
+*.png
 
 # 📁 Datos sensibles o muy pesados (personal o entrenamiento)
 *.csv
