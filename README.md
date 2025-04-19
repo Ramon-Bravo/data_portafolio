@@ -39,5 +39,5 @@ Los datasets utilizados en estos proyectos están disponibles en el repositorio 
 
 ## 📬 Contacto
 
-- [LinkedIn](www.linkedin.com/in/ramon-wh-bravo-19a352290)
-- 📧 linkedin@e.linkedin.com
+- [LinkedIn](https://www.linkedin.com/in/ramon-wh-bravo-19a352290/)
+- 📧 e.bravo.hp@outlook.com
