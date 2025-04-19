@@ -1,4 +1,4 @@
-# 📁 Portafolio de Ciencia de Datos - Ramón Enríquez
+# 📁 Portafolio de Ciencia de Datos - Ramón Enríquez Bravo
 
 ¡Bienvenido/a! Este repositorio contiene una selección de mis proyectos más relevantes desarrollados durante mi formación como Científico de Datos. Cada proyecto está documentado y enfocado en resolver problemas reales mediante análisis exploratorio, estadística inferencial y modelos de machine learning.
 
