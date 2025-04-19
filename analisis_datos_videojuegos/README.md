@@ -1,27 +1,29 @@
+# 🎮 Análisis de Datos de Videojuegos
 
-R@m0n745212/*$%
+Este proyecto tiene como objetivo identificar patrones que determinan si un videojuego tiene éxito, lo cual permite detectar proyectos prometedores y planificar campañas publicitarias más efectivas.
 
+## 🧠 Objetivo
+- Analizar el mercado global de videojuegos por plataforma, año y región.
+- Detectar tendencias de éxito por empresa y territorio.
 
-R@m0nwa1Hung745212/*%
+## 🛠️ Tecnologías utilizadas
+- Python (Jupyter Notebook)
+- pandas, numpy, seaborn, matplotlib, scipy.stats, sklearn
 
+## 📊 Dataset
+- [`games.csv`](https://github.com/Ramon-Bravo/datasets_publicos/blob/main/games.csv)  
+  *(Accedido desde el repositorio [`datasets_publicos`](https://github.com/Ramon-Bravo/datasets_publicos))*
 
-Es muy fácil ver la paja en el ojo ajeno que la viga en el propio 
+## 🤖 Modelos utilizados
+- Regresión Lineal (`LinearRegression`)
 
-ComputadoraHP74
+## 📈 Resultados clave
+- Nintendo y Sony han dominado el mercado a lo largo del tiempo, con un giro de liderazgo hacia Sony en los últimos años.
+- Microsoft ha ganado presencia significativa, especialmente en Norteamérica.
+- Existe una clara preferencia regional por consolas locales: Japón prefiere Nintendo/Sony, EE.UU. prefiere Microsoft.
 
+## 📁 Archivos clave
+- `analisis_datos_videojuegos.ipynb`
 
-Estoy atorado con un proyecto de mi curso de ciencia de datos, no sé por donde empezar, 
-
-
-data_portafolio
-
-Portafolio de Proyectos de ciencia de datos
-
-Este repositorio contiene los proyectos que he realizado como parte de la formación en ciencia de datos.
-
-Científico de Datos Jr, Data engineer, Business Intelligence, (DS) Inteligencia Artificial, Science & Engineering, BI consultant.
-
-
-
-
- Analista de Datos Jr., Analista BI, Analista de Bases de Datos, Big Data Analyst, Analista TI
+## 🧩 App o Demo
+- ❌ No aplica
