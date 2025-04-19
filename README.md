@@ -4,7 +4,7 @@
 
 ## 📁 Contenido del portafolio
 
-### 1. Análisis de datos con SQL
+### 1. Analisis datos videojuegos
 - **Descripción**: Consultas avanzadas, joins, subqueries y funciones agregadas.
 - 📂 [`proyecto_sql/`](./proyecto_sql)
 
@@ -18,5 +18,5 @@
 
 ## 📬 Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/ramon-enriquez/)
-- 📧 ramon@example.com
+- [LinkedIn](www.linkedin.com/in/ramon-wh-bravo-19a352290)
+- 📧 e.bravo.hp@outlook.com
